@@ -1,0 +1,6 @@
+  allegro-progs
+}---------------{
+
+This repository will contain various small, quick, and dirty programs written
+with Allegro 5.  Don't expect to find anything polished or segfault-proof in
+here.
